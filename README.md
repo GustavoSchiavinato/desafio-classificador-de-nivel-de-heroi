@@ -1,6 +1,6 @@
 # Desafio - Classificador de Nível de Herói
 
-## 1️⃣ Desafio Classificador de nível de Herói
+## 1️⃣ Desafio Classificador de Nível de Herói
 
 ### O Que deve ser utilizado
 * Variáveis
